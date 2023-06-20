@@ -1,0 +1,14 @@
+.google{
+    background-color: #34a853;
+    color: #ffffff;
+    border-color: green;
+}
+
+.google:hover{
+    background-color: #2f8a4c;
+    color: #ffffff;
+}
+
+.space {
+    margin: 10px;
+}

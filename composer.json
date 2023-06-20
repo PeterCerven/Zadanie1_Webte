@@ -1,0 +1,8 @@
+{
+  "require": {
+    "phpunit/phpunit": "^9",
+    "google/apiclient": "^2.13",
+    "ext-pdo": "*",
+    "phpgangsta/googleauthenticator": "dev-master"
+  }
+}
